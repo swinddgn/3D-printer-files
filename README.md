@@ -1,2 +1,2 @@
 # 3D-printer-files
-3D model drawings and printing
+I keep my own 3D designs and prints here.
